@@ -1,0 +1,111 @@
+fileFormatVersion: 2
+guid: efd41e459df4f4c9da11002970c4e6e5
+timeCreated: 1438868586
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: group3_group4_group15_group27_pCylinder1
+    100002: group3_group4_group15_group27_planarTrimmedSurface6
+    100004: planarTrimmedSurface1_group3_group4_group15_group27
+    100006: planarTrimmedSurface1_group3_group4_group15_group27_planarTrimmedSurface3
+    100008: planarTrimmedSurface1_group3_group4_group15_group27_planarTrimmedSurface3_polySurface9_group5
+    100010: planarTrimmedSurface1_group3_group4_group15_group27_planarTrimmedSurface3_polySurface9_group5_loftedSurface1
+    100012: planarTrimmedSurface1_group3_group4_group15_group27_planarTrimmedSurface3_polySurface9_group5_polySurface6
+    100014: planarTrimmedSurface1_group3_group4_group15_group27_planarTrimmedSurface8
+    100016: //RootNode
+    400000: group3_group4_group15_group27_pCylinder1
+    400002: group3_group4_group15_group27_planarTrimmedSurface6
+    400004: planarTrimmedSurface1_group3_group4_group15_group27
+    400006: planarTrimmedSurface1_group3_group4_group15_group27_planarTrimmedSurface3
+    400008: planarTrimmedSurface1_group3_group4_group15_group27_planarTrimmedSurface3_polySurface9_group5
+    400010: planarTrimmedSurface1_group3_group4_group15_group27_planarTrimmedSurface3_polySurface9_group5_loftedSurface1
+    400012: planarTrimmedSurface1_group3_group4_group15_group27_planarTrimmedSurface3_polySurface9_group5_polySurface6
+    400014: planarTrimmedSurface1_group3_group4_group15_group27_planarTrimmedSurface8
+    400016: //RootNode
+    2300000: group3_group4_group15_group27_pCylinder1
+    2300002: group3_group4_group15_group27_planarTrimmedSurface6
+    2300004: planarTrimmedSurface1_group3_group4_group15_group27
+    2300006: planarTrimmedSurface1_group3_group4_group15_group27_planarTrimmedSurface3
+    2300008: planarTrimmedSurface1_group3_group4_group15_group27_planarTrimmedSurface3_polySurface9_group5
+    2300010: planarTrimmedSurface1_group3_group4_group15_group27_planarTrimmedSurface3_polySurface9_group5_loftedSurface1
+    2300012: planarTrimmedSurface1_group3_group4_group15_group27_planarTrimmedSurface3_polySurface9_group5_polySurface6
+    2300014: planarTrimmedSurface1_group3_group4_group15_group27_planarTrimmedSurface8
+    3300000: group3_group4_group15_group27_pCylinder1
+    3300002: group3_group4_group15_group27_planarTrimmedSurface6
+    3300004: planarTrimmedSurface1_group3_group4_group15_group27
+    3300006: planarTrimmedSurface1_group3_group4_group15_group27_planarTrimmedSurface3
+    3300008: planarTrimmedSurface1_group3_group4_group15_group27_planarTrimmedSurface3_polySurface9_group5
+    3300010: planarTrimmedSurface1_group3_group4_group15_group27_planarTrimmedSurface3_polySurface9_group5_loftedSurface1
+    3300012: planarTrimmedSurface1_group3_group4_group15_group27_planarTrimmedSurface3_polySurface9_group5_polySurface6
+    3300014: planarTrimmedSurface1_group3_group4_group15_group27_planarTrimmedSurface8
+    4300000: group3_group4_group15_group27_pCylinder1
+    4300002: group3_group4_group15_group27_planarTrimmedSurface6
+    4300004: planarTrimmedSurface1_group3_group4_group15_group27
+    4300006: planarTrimmedSurface1_group3_group4_group15_group27_planarTrimmedSurface3
+    4300008: planarTrimmedSurface1_group3_group4_group15_group27_planarTrimmedSurface3_polySurface9_group5
+    4300010: planarTrimmedSurface1_group3_group4_group15_group27_planarTrimmedSurface3_polySurface9_group5_loftedSurface1
+    4300012: planarTrimmedSurface1_group3_group4_group15_group27_planarTrimmedSurface3_polySurface9_group5_polySurface6
+    4300014: planarTrimmedSurface1_group3_group4_group15_group27_planarTrimmedSurface8
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
